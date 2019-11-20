@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestCrypto</string>
+    <string name="title_activity_cryption">CryptionActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="submit">Submit</string>
+    <string name="input_text">Input Text</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+</resources>
